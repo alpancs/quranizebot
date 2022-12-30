@@ -344,6 +344,7 @@ name = "quranizebot"
 version = "0.0.0"
 dependencies = [
  "quranize",
+ "serde",
  "worker",
 ]
 

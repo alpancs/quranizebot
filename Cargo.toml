@@ -9,3 +9,4 @@ crate-type = ["cdylib", "rlib"]
 [dependencies]
 worker = "0.0.12"
 quranize = "0.7.3"
+serde = "1.0.152"
